@@ -1,0 +1,10 @@
+timeout=30
+retry=3
+username=superuser
+password=admin123
+host=localhost
+port=5432
+database=my_db
+debug=true
+log_level=info
+ssl=true
