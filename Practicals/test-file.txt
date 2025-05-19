@@ -1,0 +1,3 @@
+Hello, this is a test message.
+The quick brown fox jumps over the lazy dog!
+Encryption helps protect sensitive information.
