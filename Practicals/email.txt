@@ -1,0 +1,13 @@
+Hello Team,
+
+Please contact the following people for different departments:
+
+- Support: support@example.com
+- Sales: sales@example.org
+- Marketing: marketing@mycompany.net
+
+For HR inquiries, email hr-dept@company.co.uk or hr.manager@company.co.uk.
+
+Also, our new intern's email is intern123@university.edu.
+
+Thank you!
