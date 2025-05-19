@@ -1,0 +1,32 @@
+[
+    {
+        "ProductID": "P001",
+        "Name": "Laptop",
+        "Quantity": 15,
+        "UnitPrice": 800
+    },
+    {
+        "ProductID": "P002",
+        "Name": "Mouse",
+        "Quantity": 50,
+        "UnitPrice": 20
+    },
+    {
+        "ProductID": "P003",
+        "Name": "Keyboard",
+        "Quantity": 20,
+        "UnitPrice": 35
+    },
+    {
+        "ProductID": "P004",
+        "Name": "Monitor",
+        "Quantity": 10,
+        "UnitPrice": 150
+    },
+    {
+        "ProductID": "P005",
+        "Name": "USB Cable",
+        "Quantity": 5,
+        "UnitPrice": 10
+    }
+]
