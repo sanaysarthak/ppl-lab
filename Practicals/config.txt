@@ -1,0 +1,5 @@
+username=new_user
+password=new_password
+database=new_db
+host=localhost
+port=5432
